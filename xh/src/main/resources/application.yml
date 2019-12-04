@@ -1,0 +1,4 @@
+jwt:
+  config:
+    key: keyikeji
+    ttl: 3600000
